@@ -1,0 +1,6 @@
+/.venv/
+/build/
+/dist/
+/AutoClicker.spec
+__pycache__/
+*.py[cod]
